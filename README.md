@@ -2,7 +2,7 @@
  
  
  
-!(https://komarev.com/ghpvc/?username=sugimototheimmortal)
+my profile counter isnt working im mad
 <!--
 **sugimototheimmortal/sugimototheimmortal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
