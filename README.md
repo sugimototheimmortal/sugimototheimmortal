@@ -2,7 +2,7 @@
  
  
  
-![*I'M THE IMMORTAL SUGIMOTO!*](https://komarev.com/ghpvc/?sugimototheimmortal)
+!(https://komarev.com/ghpvc/?username=sugimototheimmortal)
 <!--
 **sugimototheimmortal/sugimototheimmortal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
