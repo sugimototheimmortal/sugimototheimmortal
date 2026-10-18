@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="736" height="263" alt="download" src="https://github.com/user-attachments/assets/95a34fac-5423-4aee-9ac1-fc98a3bd835c" />
+
+![I'M THE IMMORTAL SUGIMOTO!](https://komarev.com/ghpvc/?username=sugimototheimmortal)
 
 <!--
 **sugimototheimmortal/sugimototheimmortal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
